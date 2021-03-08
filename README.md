@@ -68,7 +68,7 @@ This shows the Sale Price Distribution
 This shows the Top 10 Location of the house price
 
 <img
-     src = "https://git.generalassemb.ly/tw1270/Submissions/blob/master/projects/project_2/Images/location.png" style = '' style="float: left; margin: 20px; height: 55px">
+     src = "https://github.com/tw1270/AMES-HOUSING-DATA-SALE-PRICE-PREDICTION/blob/main/Images/location.png" style = '' style="float: left; margin: 20px; height: 55px">
 
 Feature Correlation to Sale Price
 
