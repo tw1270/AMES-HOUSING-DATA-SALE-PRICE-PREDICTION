@@ -61,20 +61,24 @@ However, that doesn't tell the whole story as we need to look at coef_ of the mo
 ### Data_Visualization
 ---
 This shows the Sale Price Distribution
+
 <img
-     src = "https://git.generalassemb.ly/tw1270/Submissions/blob/master/projects/project_2/Images/price_distribution.png" style = '' style="float: left; margin: 20px; height: 55px">
+     src = "https://github.com/tw1270/AMES-HOUSING-DATA-SALE-PRICE-PREDICTION/blob/main/Images/price_distribution.png" style = '' style="float: left; margin: 20px; height: 55px">
 
 This shows the Top 10 Location of the house price
+
 <img
      src = "https://git.generalassemb.ly/tw1270/Submissions/blob/master/projects/project_2/Images/location.png" style = '' style="float: left; margin: 20px; height: 55px">
 
 Feature Correlation to Sale Price
+
 <img
-     src = "https://git.generalassemb.ly/tw1270/Submissions/blob/master/projects/project_2/Images/price_correlation.png" style = '' style="float: left; margin: 20px; height: 55px">
+     src = "https://github.com/tw1270/AMES-HOUSING-DATA-SALE-PRICE-PREDICTION/blob/main/Images/price_correlation.png" style = '' style="float: left; margin: 20px; height: 55px">
      
 Top Feature with above 50% correlation
+
 <img
-     src = "https://git.generalassemb.ly/tw1270/Submissions/blob/master/projects/project_2/Images/topfeature.png" style = '' style="float: left; margin: 20px; height: 55px">
+     src = "https://github.com/tw1270/AMES-HOUSING-DATA-SALE-PRICE-PREDICTION/blob/main/Images/topfeature.png" style = '' style="float: left; margin: 20px; height: 55px">
 
 ### Modeling
 ---
